@@ -21,4 +21,7 @@ This is my further improvement: nice work!
 Before merging the two branches, AStudent
 writes a very nice conclusion for the document
 and commits it.
-*PLACE HOLDER: (ASTUDENT or BSTUDENT)'S TEXT*
+
+
+Our fantastic story has come to an END!
+Thanks for all the fish friends!
